@@ -1,0 +1,47 @@
+* {
+    
+}
+
+/* Tage Name*/
+body{
+    background: #eee;
+}
+
+/*Class*/
+.card {
+    padding: 10px;
+    background: #fff;
+    /*margin-bottom: 10px;*/
+}
+
+.card p {
+    font-size: 17px;
+}
+
+/*Card*/
+.html {
+    background: #e44d26;
+    color: white;;
+}
+
+/*Card*/
+.css {
+    background: #006eba;
+    color: #fff;
+}
+
+/*Card*/
+.java {
+    background: burlywood;
+    color: #eee;
+}
+
+/*ID*/
+#header {
+    background: brown;
+    padding: 10px;
+}
+
+#header, .css, .html {
+    margin-bottom: 10px;
+}
